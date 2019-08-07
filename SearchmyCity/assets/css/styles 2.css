@@ -1,0 +1,427 @@
+#postit{
+  margin-right:auto;
+  margin-left:auto;
+}
+
+img{
+}
+
+.btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary{
+  color:#ffffff;
+  background-color:#1863e6;
+  border-color:#175fdd;
+}
+
+.btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn.active.focus{
+  outline:thin dotted;
+  outline:5px auto -webkit-focus-ring-color;
+  outline-offset:-2px;
+}
+
+.btn-primary:active:hover, .btn-primary.active:hover, .open > .dropdown-toggle.btn-primary:hover, .btn-primary:active:focus, .btn-primary.active:focus, .open > .dropdown-toggle.btn-primary:focus, .btn-primary:active.focus, .btn-primary.active.focus, .open > .dropdown-toggle.btn-primary.focus{
+  color:#ffffff;
+  background-color:rgb(227,102,11);
+  border-color:rgb(203,92,12);
+}
+
+.btn-primary:active:hover, .btn-primary.active:hover, .open > .dropdown-toggle.btn-primary:hover, .btn-primary:active:focus, .btn-primary.active:focus, .open > .dropdown-toggle.btn-primary:focus, .btn-primary:active.focus, .btn-primary.active.focus, .open > .dropdown-toggle.btn-primary.focus{
+  color:#ffffff;
+  background-color:rgb(254,150,74);
+  border-color:rgb(252,112,10);
+}
+
+.btn-primary:active:hover, .btn-primary.active:hover, .open > .dropdown-toggle.btn-primary:hover, .btn-primary:active:focus, .btn-primary.active:focus, .open > .dropdown-toggle.btn-primary:focus, .btn-primary:active.focus, .btn-primary.active.focus, .open > .dropdown-toggle.btn-primary.focus{
+  color:#ffffff;
+  background-color:rgb(252,163,99);
+  border-color:rgb(238,138,65);
+}
+
+h1#abts.text-center{
+  color:rgb(252,112,10);
+}
+
+div#scr.screen{
+  background:url('../../assets/img/Captured.JPG');
+  background-size:cover;
+}
+
+p.text-center{
+}
+
+p.1st{
+  margin-top:20px;
+}
+
+p#st{
+  margin-top:20px;
+}
+
+h1.text-center{
+  color:rgb(252,112,10);
+}
+
+img#sunst{
+  max-width:100%;
+  height:auto;
+  border:8px solid #f6f6f6;
+}
+
+div#diljot{
+  padding:70px;
+}
+
+div.team{
+  padding:90px;
+}
+
+div#happy.team{
+  width:100%;
+  height:auto;
+}
+
+img#happy{
+  max-width:100%;
+  height:auto;
+}
+
+img#happy{
+  border:8px solid #f6f6f6;
+}
+
+img#dilraj{
+  max-width:100%;
+  height:auto;
+  border:8px solid #f6f6f6;
+}
+
+p.text-center.memb{
+  color:rgb(252,112,10);
+  font-family:Cookie, Arial, Helvetica, sans-serif;
+  font-size:25px;
+}
+
+img#FREE{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+span.Sm{
+  
+  font:normal 90px Cookie, Arial, Helvetica, sans-serif;
+}
+
+.nav > li > a:hover, .nav > li > a:focus{
+  text-decoration:none;
+  background-color:#eeeeee;
+}
+
+a.dropdown-toggle{
+  align-self:baseline;  
+}
+
+a.dropdown{
+}
+
+a.dropdown{
+}
+
+a.dropdown-toggle{
+}
+
+li.dropdown{
+  padding-top:12px;
+}
+
+h1.hero-title{
+}
+
+h1.hero-title{
+}
+
+h1.ha-title{
+  font:normal 100px Cookie, Arial, Helvetica, sans-serif;
+}
+
+span.sp{
+  font-family:Cookie, Arial, Helvetica, sans-serif;
+}
+
+span#sp{
+  font-family:Cookie, Arial, Helvetica, sans-serif;
+  font-size:35px;
+}
+
+span#citysp{
+  color:rgb(252,112,10);
+}
+
+span#sc{
+  font-family:Cookie, Arial, Helvetica, sans-serif;
+  font-size:x-large;
+}
+
+#gh{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+div#dsf{
+  background:url('../../assets/img/projdfss.jpg');
+  background-size:cover;
+  background-position:center;
+  padding-top:70px;
+  padding-bottom:150px;
+}
+
+h1.whiteheadings{
+  text-align:center;
+  color:white;
+  font-size:60px;
+  font-family:'Cookie';
+}
+
+#dfss{
+}
+
+#happy{
+  background:url('../../assets/img/xcz.jpg');
+  background-size:cover;
+  background-position:center;
+}
+
+happy2{
+  color:rgba(256,256,256,1);
+}
+
+#happy2{
+  color:rgba(256,256,256,1);
+}
+
+button.btn.btn-default.submit-button : hover{
+}
+
+#sbtn{
+  background:orange;
+}
+
+#sbtn{
+}
+
+#sbtn{
+  background-color:rgb(252,112,10);
+}
+
+#rm{
+  color:white;
+}
+
+#rm{
+  color:white;
+}
+
+#rm{
+}
+
+#rf1{
+}
+
+#rf1{
+}
+
+h1#pyphead{
+  font:normal 60px Cookie, Arial, Helvetica, sans-serif;
+  color:rgb(255,254,254);
+  text-align:center;
+}
+
+div#dform{
+  background:url('../../assets/img/city-night-wallpaper-hd-3.jpg');
+  background-size:cover;
+  background-position:center;
+}
+
+div#fdiv{
+  max-width:600px;
+  padding:40px 40px;
+  margin:0 auto;
+}
+
+input#text-input.form-control{
+  background-color:rgba(254,240,240,0.03);
+  color:white;
+}
+
+label.control-label.formlabel{
+  color:white;
+  font-family:Cookie, Arial, Helvetica, sans-serif;
+  font-size:30px;
+}
+
+input#text-input.form-control.formfield{
+  background-color:rgba(0,0,0,0);
+  color:white;
+  font:Normal 30px Cookie, Arial, Helvetica, sans-serif;
+  border-color:rgba(0,0,0,0);
+  border-bottom-color:white;
+}
+
+.form-control.formta{
+  background-color:rgba(0,0,0,0);
+  color:white;
+  font:Normal 30px Cookie, Arial, Helvetica, sans-serif;
+}
+
+div.col-md-12.formcol{
+  max-width:450px;
+}
+
+div#col2.col-md-12.formcol{
+  margin-left:50px;
+}
+
+button.btn.btn-primary{
+  background-color:orange;
+}
+
+span#pypspan{
+  color:rgb(252,112,10);
+}
+
+button#next.btn.btn-primary{
+  font:Normal 30px Cookie, Arial, Helvetica, sans-serif;
+  margin-top:25px;
+  width:520px;
+}
+
+h1.orangeheadings{
+  font:normal 60px Cookie, Arial, Helvetica, sans-serif;
+  color:rgb(252,112,10);
+  text-align:center;
+}
+
+button#Yesbtn.btn.btn-default{
+  margin-left:80%;
+}
+
+div#yescol.col-lg-6.col-md-4{
+}
+
+select.form-control.input-lg.formfield{
+  color:white;
+  font:Normal 30px Cookie, Arial, Helvetica, sans-serif;
+  background-color:rgba(0,0,0,0);
+}
+
+select#fc.form-control.input-lg.formfield{
+}
+
+select.form-control.input-lg.formfield select{
+}
+
+select.form-control.input-lg.formfield select{
+  color:black;
+}
+
+select.form-control.input-lg.formfield:focus{
+  color:rgb(179,176,176);
+}
+
+div#head{
+  padding-top:20%;
+  background:url(../../assets/img/New-York-Wallpaper-Background-12.jpg);
+  background-size:cover;
+  background-position:center;
+}
+
+div#namehead{
+  text-align:center;
+}
+
+h1#hdname{
+  text-align:center;
+  font:normal 60px Cookie, Arial, Helvetica, sans-serif;
+  border-bottom:solid 2px;
+  color:rgb(252,112,10);
+}
+
+div#content{
+  margin:0 25%;
+}
+
+p#puid{
+  color:gray;
+  text-align:right;
+}
+
+p.pleft{
+  font:bold 38px Cookie, Arial, Helvetica, sans-serif;
+  color:rgb(252,112,10);
+  
+  padding-bottom:10px;
+}
+
+p.pright{
+  font:normal 30px Cookie, Arial, Helvetica, sans-serif;
+}
+
+input#search{
+}
+
+div#searchdiv{
+  max-width:600px;
+  //margin:0px auto 25px;
+text-align: center;
+  //margin:auto;
+  //display:block;
+  padding:10px 30px;
+}
+
+div#form2{
+  max-width:600px;
+  margin:0px auto 25px;
+}
+
+.maindiv{
+  background-image:url('../../assets/img/Black-White-New-York-City-Wallpaper-.jpg');
+  background-size:cover;
+  padding:50px 0px;
+  background-position:center;
+}
+
+input#search.form-control.input-lg.searchf{
+  background-color:rgba(247,247,247,0.81);
+  font:Normal 30px Cookie, Arial, Helvetica, sans-serif;
+}
+
+button.btn.btn-primary.searchbtn{
+  font:Normal 30px Cookie, Arial, Helvetica, sans-serif;
+}
+.e_icon{
+  max-height: 30px;
+  max-width: 30px;
+  float: right;
+  color:rgb(252,112,10);
+  background-color: #fff;
+}
+.p_reenter{
+  font:bold 38px Cookie, Arial, Helvetica, sans-serif;
+  color:rgb(255,255,255);
+}
+
+.fdelete{
+   /* Firefox */
+    display: -moz-box;
+    -moz-box-pack: center;
+    -moz-box-align: center;
+
+    /* Safari and Chrome */
+    display: -webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+
+    /* W3C */
+    display: box;
+    box-pack: center;
+    box-align: center;
+}
+

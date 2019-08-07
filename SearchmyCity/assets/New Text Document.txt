@@ -1,0 +1,28 @@
+CREATE TABLE posts (
+  id int(11) PRIMARY KEY AUTO_INCREMENT,
+  title varchar(256) NOT NULL,
+  category varchar(256) NOT NULL,
+  s_category varchar(256) NOT NULL,
+  description text NOT NULL,
+ t_open varchar(256) NOT NULL,
+  t_close varchar(256) NOT NULL,
+    address text NOT NULL,
+    area varchar(256) NOT NULL,
+    city text NOT NULL,
+    state varchar(256) NOT NULL,
+    spname varchar(256) NOT NULL,
+    mobile varchar(25) NOT NULL,
+    u_id varchar(256) NOT NULL
+);
+
+
+CREATE TABLE `users` (
+  `ID` int(11) NOT NULL,
+  `first_name` varchar(256) NOT NULL,
+  `last_name` varchar(256) NOT NULL,
+  `email` varchar(256) NOT NULL,
+  `mobile` varchar(256) NOT NULL,
+  `username` varchar(256) NOT NULL,
+  `password` varchar(256) NOT NULL
+)
+INSERT INTO `posts` (`id`, `title`, `category`, `s_category`, `description`, `t_open`, `t_close`, `address`, `area`, `city`, `state`, `spname`, `mobile`, `u_id`, `u_date`) VALUES (NULL, 'fgkjd', 'kgljdg', 'dgjkdlg', 'kdgfldjgl', 'ljfgdkgj', 'dflgkjd', 'gdfdg', 'dfgdg', 'dfggd', 'dgfdfg', 'gdfgdg', 'dfgdfg', 'gdfgdgd', CURRENT_TIMESTAMP);
